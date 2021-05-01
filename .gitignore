@@ -1,0 +1,9 @@
+videos/
+camera.py
+haarcascade_frontalface_default.xml
+__pycache__/
+templates/
+main.py
+model.png
+.ipynb_checkpoints/
+expression_detection/
